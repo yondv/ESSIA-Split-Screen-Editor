@@ -10,10 +10,7 @@ let app = document.getElementById('app-none');
 
 // booleanos para saber se o editor ou o preview está expandido
 let editorIsExpanded = false;
-let previewIsExpanded = false;
-
-// https://workspace.essia.com/essia-editor/editor/610767CD9E8B45EF9CD303EDDAE81C1F/1A8A8FD3EF2C45C892EC7275406224C0/DC92A4B9D1AA4751B6F3F9908661D6BB EDITOR
-// https://workspace.essia.com/preview/610767CD9E8B45EF9CD303EDDAE81C1F/1A8A8FD3EF2C45C892EC7275406224C0/DC92A4B9D1AA4751B6F3F9908661D6BB PREVIEW
+let previewIsExpanded = false; 
 
 // informações do iframe
 const editor = document.getElementById('editor-ex');

@@ -10,15 +10,36 @@
 <body>
     <section id="home">
         <header>
-            <h1>Split Editor for ESSIA</h1>
+            <h1>Split Editor</h1>
+            <img src="images/logo.svg" alt="Logo split editor">
         </header>
         <main>
-            <input type="text" id="inputEditor" placeholder="Link do editor" required>
-            <input type="text" id="inputPreview" placeholder="Link do preview" required>
-            <button onclick="abrirEditor()">Começar a converter</button>
+            <h1>🍉 Informações do editor</h1>
+            <div class="form">
+                <h2>📃</h2>
+                <input type="text" id="inputEditor" placeholder="Link do editor" required>
+            </div>
+            <div class="form">
+                <h2>👀</h2>
+                <input type="text" id="inputPreview" placeholder="Link do preview" required>
+            </div>
+            <button id="converter" onclick="abrirEditor()">Começar a converter</button>
         </main>
         <footer>
-            <p>Feito por Vítor Hugo @yonk1ng</p>
+            <h1 class="made-by">Feito por</h1>
+            <div class="content">
+                <img src="images/vitor.jpg" alt="Imagem avatar vitor hugo">
+                <div id="desc">
+                    <div>
+                        <h1>Vítor Hugo</h1>
+                        <p>@yonk1ng</p>
+                    </div>
+                    <div class="social-items">
+                        <a href="https://www.linkedin.com/in/v%C3%ADtor-hugo-tavares-pereira-a99435232/" target="_blank" class="social">Linkedin</a>
+                        <a href="https://github.com/yondv" target="_blank" class="social">Github</a>
+                    </div>
+                </div>
+            </div>
         </footer>
     </section>
     <section id="app-none">
