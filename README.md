@@ -1,14 +1,6 @@
 <h1>Documentação ESSIA Split Screen Editor 📃</h1>
-<h2>Primeiros passos</h2>
-<ol>
-  <li>Baixe os arquivos deste repositório.
-  <img src="https://user-images.githubusercontent.com/110829704/205893350-43fc5687-c0e6-4a09-bbb8-3c8d3fcbc0ef.png">
-  <img src="https://user-images.githubusercontent.com/110829704/205893808-88c7c24b-a48b-4e83-b34f-f4c07797ea04.png">
-  </li>
-  <li>Colocando a pasta onde achar melhor, abra o "index.html"
-  <img src="https://user-images.githubusercontent.com/110829704/205894237-7aa94141-e0e9-4d43-9814-ed1360c063ba.png">
-  <li>Pronto! Agora você já pode abrir o Split Editor quando quiser! Caso ache melhor, você pode criar um atalho para a área de trabalho do "index.html"</li>
-</li>
+<h2>Acessando o site</h2>
+<p>Link do site para uso do editor: https://yondv.github.io/ESSIA-Split-Screen-Editor/</p>
 </ol>
 <h2>Como usar</h2>
 <ol>
