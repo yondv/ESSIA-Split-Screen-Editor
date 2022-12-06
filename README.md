@@ -1,6 +1,6 @@
 <h1>Documentação ESSIA Split Screen Editor 📃</h1>
 <h2>Acessando o site</h2>
-<p>Link do site para uso do editor: https://yondv.github.io/ESSIA-Split-Screen-Editor/</p>
+Link do site para uso do editor: <a href="https://yondv.github.io/ESSIA-Split-Screen-Editor/" target="_blank">https://yondv.github.io/ESSIA-Split-Screen-Editor/</a>
 </ol>
 <h2>Como usar</h2>
 <ol>
