@@ -4,39 +4,59 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: 'Poppins';
     text-decoration: none;
+}
+
+#home-none{
+    display: none;
+}
+
+#app{
+    display: flex;
+    align-items: center;
+}
+
+#app-none{
+    display: none;
 }
 
 body{
     display: flex;
     align-items: center;
     justify-content: center;
+
+    background-color: #092327;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: column;
 }
 
 #editor-ex{
-    height: 100vh;
-    width: 90vw;
+    height: 98vh;
+    width: 47vw;
 
     transition: .5s;
 }
 
 #preview-ex{
-    height: 100vh;
-    width: 90vw;
+    height: 98vh;
+    width: 47vw;
 
     transition: .5s;
 }
 
 #editor{
-    height: 100vh;
+    height: 90vh;
     width: 0vw;
 
     transition: .5s;
 }
 
 #preview{
-    height: 100vh;
+    height: 90vh;
     width: 0px;
 
     transition: .5s;
@@ -44,14 +64,14 @@ body{
 
 #editor-full{
     height: 100vh;
-    width: 100vw;
+    width: 93vw;
 
     transition: .5s;
 }
 
 #preview-full{
     height: 100vh;
-    width: 100vw;
+    width: 93vw;
 
     transition: .5s;
 }
@@ -59,9 +79,71 @@ body{
 #btn-preview{
     width: 100px;
     height: 70px;
+
+    background-color: #a13d6334;
+    color: white;
+
+    transition: .5s;
+}
+
+#btn-preview:hover{
+    width: 100px;
+    height: 70px;
+
+    background-color: #c44f7c;
+    color: white;
+
+    transition: .5s;
+}
+
+#btn-preview-none{
+    display: none;
 }
 
 #btn-editor{
     width: 100px;
     height: 70px;
+
+    background-color: #a13d6334;
+    color: white;
+
+    transition: .5s;
+}
+
+#btn-editor:hover{
+    width: 100px;
+    height: 70px;
+
+    background-color: #c44f7c;
+    color: white;
+
+    transition: .5s;
+}
+
+#btn-editor-none{
+    display: none;
+}
+
+#btn-split{
+    width: 100px;
+    height: 70px;
+
+    background-color: #a13d6334;
+    color: white;
+
+    transition: .5s;
+}
+
+#btn-split:hover{
+    width: 100px;
+    height: 70px;
+
+    background-color: #c44f7c;
+    color: white;
+
+    transition: .5s;
+}
+
+#btn-split-none{
+    display: none;
 }
