@@ -1,10 +1,10 @@
 <h1>Documentação ESSIA Split Screen Editor 📃</h1>
 <h2>NOTAS IMPORTANTE 🔊📢</h2>
 <p><b>CASO VOCÊ NÂO FAÇA PARTE OU TENHA CONTATO COM A EMPRESA ESSIA, ESSE REPOSITÓRIO NÂO LHE SERÁ ÚTIL</b></h1>
-<h2>Acessando o site</h2>
+<h2>Acessando o site 🦜</h2>
 Link do site para uso do editor: <a href="https://yondv.github.io/ESSIA-Split-Screen-Editor/" target="_blank">https://yondv.github.io/ESSIA-Split-Screen-Editor/</a>
-</ol>
-<h2>Como usar</h2>
+<br>
+<h2>Como usar ⁉</h2>
 <ol>
   <li>Na verdade é bem simples! Tudo que voce precisa fazer é preencher os campos de links.
   <img src="https://user-images.githubusercontent.com/110829704/205894814-a006f65f-8689-4d2f-966d-44a30450e1b2.png">
