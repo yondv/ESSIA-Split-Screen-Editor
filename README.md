@@ -18,7 +18,7 @@
   <li>Após ter preenchido os campos, basta clicar no botão "Começar a converter"
   <img src="https://user-images.githubusercontent.com/110829704/205895117-5b9fa70d-810a-4ca6-927e-cf1e7e66d50b.png">
   </li>
-  <li>A interface é bem simples, onde existe dois botões que expandem a tela do editor ou do preview, e lembre-se, SEMPRE que você expandir a tela do preview a página do preview vai dar um reload (F5).
+  <li>A interface é bem simples, onde existem dois botões que expandem a tela do editor ou do preview, e lembre-se, SEMPRE que você expandir a tela do preview a página do preview vai dar um reload (F5).
   <img src="https://user-images.githubusercontent.com/110829704/205895585-91ca7034-7bb4-4c6a-bb14-f36c94690362.png">
   </li>
 </ol>
